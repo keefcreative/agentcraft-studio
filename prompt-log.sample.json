@@ -1,0 +1,27 @@
+{
+  "project": "Demo-TaskApp",
+  "log": [
+    {
+      "step": 1,
+      "title": "Setup Project",
+      "prompt": "Create the base React app with Vite and install dependencies.",
+      "response": "// React + Vite setup code here...",
+      "feedback": {
+        "status": "approved",
+        "notes": "Clean setup, ready to build on."
+      },
+      "timestamp": "2025-03-23T14:00:00Z"
+    },
+    {
+      "step": 2,
+      "title": "Authentication",
+      "prompt": "Add login, logout, and register components with local storage.",
+      "response": "// Auth code here...",
+      "feedback": {
+        "status": "needs changes",
+        "notes": "Password validation logic missing."
+      },
+      "timestamp": "2025-03-23T14:10:00Z"
+    }
+  ]
+}
